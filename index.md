@@ -9,8 +9,8 @@ description: My Research Project
 
 
 ### Projects
-- [CSE using Asymmetric Readout Waveforms](henricryden.github.io/asymreadout)
-- [dBW-RARE](henricryden.github.io/dBW-RARE)
+- [CSE using Asymmetric Readout Waveforms](asymreadout)
+- [dBW-RARE](dBW-RARE)
 
 
 <br />
