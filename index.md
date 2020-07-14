@@ -10,7 +10,7 @@ description: My Research Project
 
 ### Projects
 - [CSE using Asymmetric Readout Waveforms](asymreadout)
-- [dBW-RARE](dBW-RARE)
+- [dBW-RARE](dbwRARE)
 
 
 <br />
