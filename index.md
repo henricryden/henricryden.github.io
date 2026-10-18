@@ -6,9 +6,9 @@ hide_navbar: true
 ---
 
 ### Projects
-- [CSE using Asymmetric Readout Waveforms](asymreadout)
-- [RARE Two-point Dixon with Dual Bandwidths](dbwRARE)
-- [View Order with Arbitrary Center Echoes](https://henricryden.github.io/vieworder/)
+- [CSE using Asymmetric Readout Waveforms](asymreadout) ([Article](https://doi.org/10.1002/mrm.28529))
+- [RARE Two-point Dixon with Dual Bandwidths](dbwRARE) ([Article](https://doi.org/10.1002/mrm.28293))
+- [View Order with Arbitrary Center Echoes](https://henricryden.github.io/vieworder/) ([Article](https://doi.org/10.1002/mrm.70482))
 - [ndslice on GitHub](https://github.com/henricryden/ndslice)
 
 
