@@ -8,7 +8,7 @@ hide_navbar: true
 ### Projects
 - [CSE using Asymmetric Readout Waveforms](asymreadout)
 - [dBW-RARE](dbwRARE)
-- [ViewOrder dashboard](https://henricryden.github.io/vieworder/)
+- [View Order with Arbitrary Center Echoes](https://henricryden.github.io/vieworder/)
 - [ndslice on GitHub](https://github.com/henricryden/ndslice)
 
 
