@@ -28,6 +28,7 @@
   </head>
 
   <body>
+    {% unless page.hide_navbar %}
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
@@ -35,6 +36,7 @@
         </div>
       </div>
     </div>
+    {% endunless %}
 
     <div class="container-narrow">
 

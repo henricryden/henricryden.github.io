@@ -2,6 +2,7 @@
 layout: page
 title: Henric Rydén
 description: My Research Project
+hide_navbar: true
 ---
 
 ### Projects
